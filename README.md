@@ -12,3 +12,16 @@ file __________
 touch 
 rm
 rm -i file1.txt file2.txt file3.txt
+uptime 
+free
+ps -A
+df: drives
+lsblk
+sudo
+top
+htop
+apt
+sudo apt update 
+sudo apt upgrade 
+nano <file_name>
+vim
